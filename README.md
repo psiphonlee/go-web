@@ -113,15 +113,15 @@ err  是用 Go 自带的验证器库  validator  验证参数时返回的错�
 函数会根据不同情况返回不同的错误信息。
 如果传入的  err  参数属于 Go 自带的验证器库  validator  的  ValidationErrors  类型，即参数出现验证错误：
 程序会判断请求结构体是否实现了  Validator  接口。
-如果  request  实现了  Validator  接口，则可以自定义错误信息。这里的实现方式是：在  ValidatorMessages  中使用<FieldName><Tag>  作为 key，值为对应的错误信息。例如："name.required": "name 不能为空"  这个键值对就对应了  name  字段的  required  验证失败时输出的错误信息。
+如果  request  实现了  Validator  接口，则可以自定义错误信息。这里的实现方式是：在  ValidatorMessages  中使用"<FieldName><Tag>"  作为 key，值为对应的错误信息。例如："name.required": "name 不能为空"  这个键值对就对应了  name  字段的  required  验证失败时输出的错误信息。
 如果没有实现  Validator  接口，则直接返回默认的错误信息。
 最后如果参数没有验证出现错误，则返回参数错误的提示信息  "Parameter error"<br>
 2.8.3 根目录下新建 model 文件夹，该目录再新建 system/sys_user.go：
-2.8.4 接着在 rouetr/system/sys_base.go 中新建一个 register 接口：
+2.8.4 接着在 rouetr/system/sys_base.go 中新建一个 register 接口：<br>
 2.8.5 自定义验证规则 <br>
-&emsp;&emsp;有一些验证规则在 Gin 框架中是没有的，这个时候我们就需要自定义验证器，验证规则将统一存放在 utils/validator.go 中，新增一个校验手机号的校验器。
-2.8.6 initialize 目录下新建 other.go 文件，用来初始化一些其他的校验方法
-2.8.7 在 main.go 中设置 自定义校验器初始化
+&emsp;&emsp;有一些验证规则在 Gin 框架中是没有的，这个时候我们就需要自定义验证器，验证规则将统一存放在 utils/validator.go 中，新增一个校验手机号的校验器。<br>
+2.8.6 initialize 目录下新建 other.go 文件，用来初始化一些其他的校验方法<br>
+2.8.7 在 main.go 中设置 自定义校验器初始化<br>
 2.8.7 这就可以再 model 里面的使用自定义的校验规则了，比如说对 mobile 字段的值使用 mobile 校验校验规则: <br>
 &emsp;&emsp;tag 添加校验规则：binding:"required,mobile"`<br>
 &emsp;&emsp;校验器添加返回信息："mobile.mobile": "手机号码格式不正确"<br>
