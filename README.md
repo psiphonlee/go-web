@@ -126,7 +126,7 @@ err  是用 Go 自带的验证器库  validator  验证参数时返回的错�
 &emsp;&emsp;tag 添加校验规则：binding:"required,mobile"`<br>
 &emsp;&emsp;校验器添加返回信息："mobile.mobile": "手机号码格式不正确"<br>
 
-## 2.9 引入 Redis "github.com/go-redis/redis/v8"
+## 2.9 引入 Redis "github.com/redis/go-redis/v9"
 
 2.9.1 config.yaml 中增加 redis 配置：<br>
 2.9.2 config 目录下新建 redis.go 文件, 定义 Redis 结构体，并在 Configuration 中引入<br>
