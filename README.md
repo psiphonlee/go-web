@@ -113,7 +113,7 @@ err  是用 Go 自带的验证器库  validator  验证参数时返回的错�
 函数会根据不同情况返回不同的错误信息。
 如果传入的  err  参数属于 Go 自带的验证器库  validator  的  ValidationErrors  类型，即参数出现验证错误：
 程序会判断请求结构体是否实现了  Validator  接口。
-如果  request  实现了  Validator  接口，则可以自定义错误信息。这里的实现方式是：在  ValidatorMessages  中使用\<FieldName>.\<Tag>  作为 key，值为对应的错误信息。例如："name.required": "name 不能为空"  这个键值对就对应了  name  字段的  required  验证失败时输出的错误信息。
+如果  request  实现了  Validator  接口，则可以自定义错误信息。这里的实现方式是：在  ValidatorMessages  中使用<FieldName><Tag>  作为 key，值为对应的错误信息。例如："name.required": "name 不能为空"  这个键值对就对应了  name  字段的  required  验证失败时输出的错误信息。
 如果没有实现  Validator  接口，则直接返回默认的错误信息。
 最后如果参数没有验证出现错误，则返回参数错误的提示信息  "Parameter error"<br>
 2.8.3 根目录下新建 model 文件夹，该目录再新建 system/sys_user.go：
