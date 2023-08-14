@@ -1,0 +1,34 @@
+[gomap/server]2023/08/13 - 10:02:21.193	[34minfo[0m	C:/go-project/go-web-frame/main.go:24	zap init sucess	{"zap_log": "zap_log"}
+[gomap/server]2023/08/13 - 10:03:17.451	[34minfo[0m	C:/go-project/go-web-frame/main.go:24	zap init sucess	{"zap_log": "zap_log"}
+[gomap/server]2023/08/13 - 11:08:02.973	[34minfo[0m	C:/go-project/go-web-frame/main.go:24	zap init sucess	{"zap_log": "zap_log"}
+[gomap/server]2023/08/13 - 11:08:03.052	[34minfo[0m	C:/go-project/go-web-frame/core/server.go:30	server run success on:	{"address": ":8889"}
+[gomap/server]2023/08/13 - 12:19:32.985	[34minfo[0m	C:/go-project/go-web-frame/main.go:24	zap init sucess	{"zap_log": "zap_log"}
+[gomap/server]2023/08/13 - 12:19:33.038	[34minfo[0m	C:/go-project/go-web-frame/core/server.go:25	server run success on:	{"address": ":8889"}
+[gomap/server]2023/08/13 - 18:39:59.282	[34minfo[0m	C:/go-project/go-web-frame/main.go:24	zap init sucess	{"zap_log": "zap_log"}
+[gomap/server]2023/08/13 - 18:39:59.352	[34minfo[0m	C:/go-project/go-web-frame/core/server.go:25	server run success on:	{"address": ":8889"}
+[gomap/server]2023/08/13 - 18:46:10.077	[34minfo[0m	C:/go-project/go-web-frame/main.go:24	zap init sucess	{"zap_log": "zap_log"}
+[gomap/server]2023/08/13 - 18:46:10.121	[34minfo[0m	C:/go-project/go-web-frame/core/server.go:25	server run success on:	{"address": ":8889"}
+[gomap/server]2023/08/13 - 18:50:21.419	[34minfo[0m	C:/go-project/go-web-frame/main.go:24	zap init sucess	{"zap_log": "zap_log"}
+[gomap/server]2023/08/13 - 18:50:21.465	[34minfo[0m	C:/go-project/go-web-frame/core/server.go:25	server run success on:	{"address": ":8889"}
+[gomap/server]2023/08/13 - 18:54:24.150	[34minfo[0m	C:/go-project/go-web-frame/main.go:24	zap init sucess	{"zap_log": "zap_log"}
+[gomap/server]2023/08/13 - 18:54:24.200	[34minfo[0m	C:/go-project/go-web-frame/core/server.go:25	server run success on:	{"address": ":8889"}
+[gomap/server]2023/08/13 - 19:04:47.579	[34minfo[0m	C:/go-project/go-web-frame/main.go:24	zap init sucess	{"zap_log": "zap_log"}
+[gomap/server]2023/08/13 - 19:04:47.625	[34minfo[0m	C:/go-project/go-web-frame/core/server.go:25	server run success on:	{"address": ":8889"}
+[gomap/server]2023/08/13 - 19:07:19.945	[34minfo[0m	C:/go-project/go-web-frame/main.go:24	zap init sucess	{"zap_log": "zap_log"}
+[gomap/server]2023/08/13 - 19:07:19.988	[34minfo[0m	C:/go-project/go-web-frame/core/server.go:25	server run success on:	{"address": ":8889"}
+[gomap/server]2023/08/13 - 19:12:08.246	[34minfo[0m	C:/go-project/go-web-frame/main.go:24	zap init sucess	{"zap_log": "zap_log"}
+[gomap/server]2023/08/13 - 19:12:08.292	[34minfo[0m	C:/go-project/go-web-frame/core/server.go:25	server run success on:	{"address": ":8889"}
+[gomap/server]2023/08/13 - 19:15:05.962	[34minfo[0m	C:/go-project/go-web-frame/main.go:24	zap init sucess	{"zap_log": "zap_log"}
+[gomap/server]2023/08/13 - 19:15:06.011	[34minfo[0m	C:/go-project/go-web-frame/core/server.go:25	server run success on:	{"address": ":8889"}
+[gomap/server]2023/08/13 - 19:15:54.713	[34minfo[0m	C:/go-project/go-web-frame/main.go:24	zap init sucess	{"zap_log": "zap_log"}
+[gomap/server]2023/08/13 - 19:15:54.758	[34minfo[0m	C:/go-project/go-web-frame/core/server.go:25	server run success on:	{"address": ":8889"}
+[gomap/server]2023/08/13 - 19:17:57.772	[34minfo[0m	C:/go-project/go-web-frame/main.go:24	zap init sucess	{"zap_log": "zap_log"}
+[gomap/server]2023/08/13 - 19:17:57.815	[34minfo[0m	C:/go-project/go-web-frame/core/server.go:25	server run success on:	{"address": ":8889"}
+[gomap/server]2023/08/13 - 23:17:11.283	[34minfo[0m	C:/go-project/go-web-frame/main.go:24	zap init sucess	{"zap_log": "zap_log"}
+[gomap/server]2023/08/13 - 23:17:11.359	[34minfo[0m	C:/go-project/go-web-frame/core/server.go:25	server run success on:	{"address": ":8889"}
+[gomap/server]2023/08/13 - 23:54:51.761	[34minfo[0m	C:/go-project/go-web-frame/main.go:24	zap init sucess	{"zap_log": "zap_log"}
+[gomap/server]2023/08/13 - 23:54:51.831	[34minfo[0m	C:/go-project/go-web-frame/core/server.go:25	server run success on:	{"address": ":8889"}
+[gomap/server]2023/08/13 - 23:59:13.961	[34minfo[0m	C:/go-project/go-web-frame/main.go:24	zap init sucess	{"zap_log": "zap_log"}
+[gomap/server]2023/08/13 - 23:59:14.011	[34minfo[0m	C:/go-project/go-web-frame/core/server.go:25	server run success on:	{"address": ":8889"}
+[gomap/server]2023/08/13 - 23:59:47.815	[34minfo[0m	C:/go-project/go-web-frame/main.go:24	zap init sucess	{"zap_log": "zap_log"}
+[gomap/server]2023/08/13 - 23:59:47.860	[34minfo[0m	C:/go-project/go-web-frame/core/server.go:25	server run success on:	{"address": ":8889"}

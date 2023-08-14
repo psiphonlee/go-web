@@ -1,0 +1,3 @@
+[gomap/server]2023/08/12 - 10:20:26.371	[34minfo[0m	C:/go-project/go-web-frame/main.go:28	server start	{"zap_log": "zap_log"}
+[gomap/server]2023/08/12 - 10:49:43.885	[34minfo[0m	C:/go-project/go-web-frame/main.go:29	zap init sucess	{"zap_log": "zap_log"}
+[gomap/server]2023/08/12 - 11:31:50.782	[34minfo[0m	C:/go-project/go-web-frame/main.go:24	zap init sucess	{"zap_log": "zap_log"}

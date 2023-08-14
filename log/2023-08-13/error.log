@@ -1,0 +1,15 @@
+[gomap/server]2023/08/13 - 11:09:20.208	[31merror[0m	C:/go-project/go-web-frame/core/server.go:37	accept tcp [::]:8889: use of closed network connection
+[gomap/server]2023/08/13 - 13:00:07.084	[31merror[0m	C:/go-project/go-web-frame/core/server.go:32	accept tcp [::]:8889: use of closed network connection
+[gomap/server]2023/08/13 - 18:45:59.247	[31merror[0m	C:/go-project/go-web-frame/core/server.go:32	accept tcp [::]:8889: use of closed network connection
+[gomap/server]2023/08/13 - 18:49:23.791	[31merror[0m	C:/go-project/go-web-frame/core/server.go:32	accept tcp [::]:8889: use of closed network connection
+[gomap/server]2023/08/13 - 18:50:30.390	[31merror[0m	C:/go-project/go-web-frame/core/server.go:32	accept tcp [::]:8889: use of closed network connection
+[gomap/server]2023/08/13 - 19:03:37.195	[31merror[0m	C:/go-project/go-web-frame/core/server.go:32	accept tcp [::]:8889: use of closed network connection
+[gomap/server]2023/08/13 - 19:05:53.212	[31merror[0m	C:/go-project/go-web-frame/core/server.go:32	accept tcp [::]:8889: use of closed network connection
+[gomap/server]2023/08/13 - 19:08:31.781	[31merror[0m	C:/go-project/go-web-frame/core/server.go:32	accept tcp [::]:8889: use of closed network connection
+[gomap/server]2023/08/13 - 19:12:22.481	[31merror[0m	C:/go-project/go-web-frame/core/server.go:32	accept tcp [::]:8889: use of closed network connection
+[gomap/server]2023/08/13 - 19:15:29.074	[31merror[0m	C:/go-project/go-web-frame/core/server.go:32	accept tcp [::]:8889: use of closed network connection
+[gomap/server]2023/08/13 - 19:17:39.044	[31merror[0m	C:/go-project/go-web-frame/core/server.go:32	accept tcp [::]:8889: use of closed network connection
+[gomap/server]2023/08/13 - 19:18:15.699	[31merror[0m	C:/go-project/go-web-frame/core/server.go:32	accept tcp [::]:8889: use of closed network connection
+[gomap/server]2023/08/13 - 23:34:11.004	[31merror[0m	C:/go-project/go-web-frame/core/server.go:32	accept tcp [::]:8889: use of closed network connection
+[gomap/server]2023/08/13 - 23:57:45.641	[31merror[0m	C:/go-project/go-web-frame/core/server.go:32	accept tcp [::]:8889: use of closed network connection
+[gomap/server]2023/08/13 - 23:59:24.902	[31merror[0m	C:/go-project/go-web-frame/core/server.go:32	accept tcp [::]:8889: use of closed network connection
