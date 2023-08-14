@@ -12,7 +12,7 @@ import (
 const AppMode = "debug" // 运行环境，主要有三种：debug、test、release
 
 func main() {
-	// 通过环境变量设置读取哪个配置文件：config.yaml,
+	// 通过gin.SetMode指定读取哪个配置文件：config.yaml,
 	gin.SetMode(AppMode)
 
 	// TODO：1.配置初始化
